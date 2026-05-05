@@ -2,7 +2,7 @@
 ### Your AI Financial Coach — Built for Canadians
 
 **Current version:** 2.4 | [View changelog](https://github.com/cjpatten/canadian-finance-planner-skill/releases)
-
+ 
 A custom skill for [Claude](https://claude.ai) that turns it into your personal AI financial coach — built specifically for Canadians.
 
 Claude conducts a thorough financial interview, builds a complete budget and action plan, generates an interactive dashboard with charts, and provides ongoing coaching. All tailored to Canadian tax rules, government benefits, and registered accounts.
